@@ -15,7 +15,7 @@ I'm a data analyst passionate about turning raw data into clear, actionable insi
 - 🌱 Currently deepening my skills in **Python for data analysis (Pandas, Matplotlib)**
 - 💼 Open to **Data Analyst / Business Analyst** opportunities
 - 📍 Based in **Ahmedabad, India**
-- 📫 Reach me at: **[your.email@gmail.com]**
+- 📫 Reach me at: **[aniket18256.email@gmail.com]**
 
 ---
 
@@ -59,11 +59,11 @@ Data analysis project using **SQL, Python, and Power BI** to extract actionable 
 ### 🤝 Connect With Me
 
 <p>
-  <a href="[YOUR LINKEDIN URL]">
+  <a href="[www.linkedin.com/in/aniket-rathod-66b907372]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:[YOUR EMAIL]">
+  <a href="mailto:[aniket18256@gmail.com]">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
