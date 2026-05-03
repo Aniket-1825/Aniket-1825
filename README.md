@@ -59,7 +59,7 @@ Data analysis project using **SQL, Python, and Power BI** to extract actionable 
 ### 🤝 Connect With Me
 
 <p>
-  <a href="[www.linkedin.com/in/aniket-rathod-66b907372]">
+  <a href="https://www.linkedin.com/in/aniket-rathod-66b907372">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
